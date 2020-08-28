@@ -15,5 +15,5 @@ yarn
 2. Run sample code:
 ```
 cd src
-ts-node ts-node s3_putBucketPolicy.ts
+ts-node s3_putBucketPolicy.ts
 ```
